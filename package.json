@@ -1,0 +1,25 @@
+{
+  "name": "package-practice",
+  "version": "1.0.0",
+  "description": "npm publishing test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chrismuto/location_test_package.git"
+  },
+  "author": "chrismuto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrismuto/location_test_package/issues"
+  },
+  "homepage": "https://github.com/chrismuto/location_test_package#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
