@@ -5,6 +5,6 @@ export default function locationFinder(newCity) {
         return response.json();
     })
     .then(function (data) {
-        return (data);
+        return data;
     });
 }

@@ -2,9 +2,9 @@
   "name": "package-practice",
   "version": "1.0.0",
   "description": "npm publishing test",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
