@@ -1,5 +1,5 @@
 {
-  "name": "package-practice",
+  "name": "city-latlong-det",
   "version": "1.0.0",
   "description": "npm publishing test",
   "main": "dist/index.js",
