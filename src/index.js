@@ -1,5 +1,7 @@
 import locationFinder from "./locationFinder.js";
 
-locationFinder(city);
+const testFunction = (city) => {
+   return locationFinder(city);
+}
 
-export default locationFinder;
+module.exports = testFunction;
