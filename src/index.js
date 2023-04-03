@@ -4,4 +4,4 @@ const testFunction = (city) => {
    return locationFinder(city);
 }
 
-module.exports = testFunction;
+module.exports = { testFunction };
