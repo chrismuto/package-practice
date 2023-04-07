@@ -1,4 +1,4 @@
-/src
 webpack.config.js
-package.json
 index.html
+/node_modules
+/package-lock.json

@@ -1,8 +1,8 @@
 {
   "name": "city-latlong-det",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "npm publishing test",
-  "main": "dist/index.js",
+  "main": "/src/index.js",
   "scripts": {
     "build": "webpack --mode production"
   },
